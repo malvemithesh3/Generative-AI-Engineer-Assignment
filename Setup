@@ -1,0 +1,24 @@
+1. Clone the Repository:
+
+git clone <repository_url>
+cd multi_agent_app
+
+2. Create a requirements.txt file (if not already present) to install dependencies:
+
+echo -e "streamlit\nrequests\nbeautifulsoup4\npandas" > requirements.txt
+pip install -r requirements.txt
+
+3. Create the outputs directory:
+
+mkdir outputs
+
+4. Running the Application
+To run the application, follow these steps:
+
+Open your command prompt.
+Navigate to the directory containing multi_agent_app.py:
+
+cd path/to/multi_agent_app
+Run the Streamlit application:
+
+streamlit run multi_agent_app.py
