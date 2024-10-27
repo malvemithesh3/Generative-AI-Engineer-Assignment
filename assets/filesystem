@@ -1,0 +1,10 @@
+Generative-AI-Engineer-Assignment/
+│
+├── multi_agent_app.py          # Main Python script for the application
+├── requirements.txt            # Python dependencies
+├── README.md                   # Documentation for the project
+├── outputs/                    # Folder for generated output files
+│   ├── final_proposal.md       # The final proposal document
+│   ├── datasets.md             
+├── assets/                     # Optional: Images or diagrams
+   └── architecture_flowchart.png
